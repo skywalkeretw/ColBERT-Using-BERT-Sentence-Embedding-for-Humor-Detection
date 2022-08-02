@@ -1,2 +1,6 @@
 /colbert-trained
 colbert-trained.zip
+sub*.csv
+.DS_Store
+.ipynb_checkpoints/
+Data/.ipynb_checkpoints/
